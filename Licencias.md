@@ -1,6 +1,6 @@
-# Resumen de Características de Licencias
+# Resumen de Características de Licencias disponibles en GitHub (Abril 2024)
 
-Aquí tienes una tabla resumen que destaca las principales características de las licencias mencionadas. Esta información es útil para comprender las diferencias clave entre ellas en términos de cómo se pueden usar, modificar y distribuir el software o el contenido.
+Tabla resumen con las principales características de las licencias disponibles al generar un repositorio GitHub. Nos permite comprender las diferencias clave entre ellas en términos de cómo se pueden usar, modificar y distribuir el software o el contenido.
 
 | Licencia                                 | Permisividad          | Requiere Mantener Derechos de Autor Original | Cambios Bajo la Misma Licencia | Uso de Librerías en Software Propietario | Uso Comercial | Distribución de Código Fuente |
 |------------------------------------------|-----------------------|----------------------------------------------|--------------------------------|------------------------------------------|---------------|-------------------------------|
@@ -22,6 +22,6 @@ Aquí tienes una tabla resumen que destaca las principales características de l
 - **Cambios Bajo la Misma Licencia**: Si los cambios o el software derivado deben distribuirse bajo la misma licencia.
 - **Uso de Librerías en Software Propietario**: Indica si se pueden usar las librerías en software propietario sin compartir el código fuente del software propietario.
 - **Uso Comercial**: Si la licencia permite el uso comercial del software o contenido.
-- **Distribución de Código Fuente**: Indica si se requiere distribuir el código fuente junto con el software binario.
+- **Distribución de Código Fuente**: Indica si se requiere distribuir el código fuente junto con el software binario
 
-Estas características son cruciales a la hora de elegir una licencia para tu proyecto, ya que determinan cómo otros pueden usar, modificar y distribuir tu trabajo.
+Las licencia determinan cómo otros pueden usar, modificar y distribuir tu trabajo.
